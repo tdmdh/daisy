@@ -1,0 +1,2 @@
+FROM scratch
+# Placeholder Dockerfile for Rust service; add real build steps later.

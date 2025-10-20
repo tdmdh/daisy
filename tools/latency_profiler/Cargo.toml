@@ -1,0 +1,6 @@
+[package]
+name = "latency_profiler"
+version = "0.0.0"
+edition = "2021"
+
+# Placeholder Cargo manifest.

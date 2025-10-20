@@ -1,0 +1,10 @@
+name: Rust CI
+
+on: [push]
+
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder step
+        run: echo "Rust CI placeholder"

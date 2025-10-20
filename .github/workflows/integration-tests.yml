@@ -1,0 +1,10 @@
+name: Integration Tests
+
+on: [push]
+
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder step
+        run: echo "Integration tests placeholder"
