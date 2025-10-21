@@ -20,7 +20,7 @@ Building a high-performance second screen system (like Duet Display) that allows
   - [ ] Create error handling types
 - [ ] Setup development environment
   - [ ] Install Rust toolchain
-  - [ ] Install FFmpeg development libraries
+  - [ ] Install FFmpeg development libraries0000
   - [ ] Install Windows SDK
   - [ ] Configure IDE/editor
 

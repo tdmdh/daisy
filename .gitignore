@@ -1,0 +1,44 @@
+# Second Screen System - Git Ignore File
+
+# ===== Rust =====
+# Build artifacts
+rust-capture/target/
+rust-capture/Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# ===== Go =====
+# Build artifacts
+go-server/server
+go-server/server.exe
+*.exe~
+go-server/go.sum
+
+# Vendor directory
+go-server/vendor/
+
+# ===== Binaries =====
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# ===== Logs =====
+logs/
+*.log
+
+# ===== Configuration =====
+# Local configuration files (keep templates)
+config.local.toml
+config.local.yaml
+*.local.*
+
+# Secrets
+*.key
+*.pem
+*.p12
+secrets/
+
+# ===== IDE / Editor =====
+# Visual Studio Code
